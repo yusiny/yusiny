@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Yusin%20Kim&fontSize=100)
 
-<h3 align="center">Career </h3>
+<h3 align="center">💙Career💙 </h3>
 
 |2020~|        Gachon University majoring in European Languae & Literature and AI & Software  |
 |:-----:|:-----------------------------------------------------------------------------------:|
@@ -9,7 +9,7 @@
 <br>
 
 <div align=center>
-  <h3> Tech Stack </h3>
+  <h3> ❤Tech Stack❤ </h3>
   <p> Techs what I'm studying now</p>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
@@ -19,7 +19,7 @@
 
 <div align="center">
  <br> <hr> <br>
-  <h3> How to reach me</h3>
+  <h3> How to reach me 💬</h3>
  <a href="https://www.notion.so/Frontend-524b751dfeab4ffd80cf1aef5714f33c">
 <img src="https://img.shields.io/badge/Notion-83a4d4?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Frontend-524b751dfeab4ffd80cf1aef5714f33c"/></a>&nbsp
  <a href="mailto:yusinkim.or@gmail.com">
