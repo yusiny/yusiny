@@ -2,10 +2,10 @@
 
 <h3 align="center">💙Career💙 </h3>
 
-|2020~|        Gachon University majoring in European Languae & Literature and AI & Software  |
+|2020~|        Gachon University majoring in European Language & Literature and AI & Software  |
 |:-----:|:-----------------------------------------------------------------------------------:|
 |2020| Member of Planning Team, 36th Gachon University Humanities College Student Council, Emergency Response Committee|
-|2021| Member of Planning Team 3, 8th Gachon University European Language and Literature Student Council, YOUR|
+|2021| Member of Team 3, 8th Gachon University European Language and Literature Student Council, YOUR|
 <br>
 
 <div align=center>
