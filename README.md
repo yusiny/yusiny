@@ -1,5 +1,5 @@
 ## ✨ About Me
-<a href="https://usiny.notion.site/Yooshin-Kim-9b275fee8ef6485e85863684476d2b23" > 
+<a href="https://www.rallit.com/resumes/56571@yusinkim.or/%EA%B9%80%EC%9C%A0%EC%8B%A0?theme=MINT_SORBET" > 
   <img src="https://img.shields.io/badge/Portfolio-3b5534?style=flat&logo=notion&logoColor=white"/>
 </a>
 <a href="https://lamerry.tistory.com" > 
