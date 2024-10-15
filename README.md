@@ -10,11 +10,7 @@
 
 ## 🔥 Experience 
 - 앱 런칭 동아리 UMC 1기 - Android 파트 (2021.09-2021.12)
-- SW동계해외연수 - PeopleSpace A.I Program (2023.01-2023.02)
 - 골프존커머스 모바일개발팀 인턴 (2023.04-2023.12)
 - SKT DEVOCEAN YOUNG 3기 (2024.03-현재)
 
 <br/>
-
-## 🛠️ Skill
-<img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
